@@ -2,7 +2,7 @@
 
 ## About
 
-This is a machine learning code written in Python, that uses the results of soccer games from the Brazilian Championship as a training model, to then use logistic regression to determine the result. The actual result is compared to the model in a confusion matrix.
+This is a machine learning code written in Python, using Jupyter notebook, that uses the results of soccer games from the Brazilian Championship as a training model. It uses logistic regression to determine the result, and the actual result is compared to the model in a visual confusion matrix towards the end.
 
 ## How to run
 
