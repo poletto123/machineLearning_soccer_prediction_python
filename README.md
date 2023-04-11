@@ -7,3 +7,10 @@ This is a machine learning code written in Python, using Jupyter notebook, that 
 ## How to run
 
 You can open ```machineLearning_soccer.ipynb``` for a glimpse on how it works. To run it, either use the .py file, or import the notebook on https://colab.research.google.com/. You'll need to download new data from http://www.football-data.co.uk in CSV, since the original file used is not available anymore.
+
+## Libraries used
+
+- Pandas
+- Numpy
+- Google Drive Downloader
+- Sklearn (train_test_split and LogisticRegression)
